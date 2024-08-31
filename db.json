@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "username": "sss",
+      "email": "admin@admin.com",
+      "address": "esfrdg",
+      "password": "dgg",
+      "id": "2764"
+    },
+    {
+      "id": "efa4",
+      "username": "anonymo",
+      "email": "saadh392@mail.com",
+      "address": "sf",
+      "password": "dfsaf"
+    }
+  ],
+  "todos": [
+    {
+      "task": "learn css",
+      "isComplete": false,
+      "id": "39eb"
+    },
+    {
+      "task": "false",
+      "isComplete": false,
+      "id": "0ef8"
+    },
+    {
+      "task": "learn react",
+      "isComplete": true,
+      "id": "2376"
+    },
+    {
+      "task": "learn angularjs",
+      "isComplete": true,
+      "id": "b5e2"
+    },
+    {
+      "task": "anything",
+      "isComplete": true,
+      "id": "bab5"
+    },
+    {
+      "task": "anything",
+      "isComplete": true,
+      "id": "37dd"
+    }
+  ]
+}
